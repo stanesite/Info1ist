@@ -1,0 +1,65 @@
+div {
+    text-align:center;
+    }
+div#bandeau {
+         width:1250px;
+         height:50px;
+         color: white;
+         background-color:#00CCFF;
+        }
+div#contenu {
+         width:1250px;
+         height:590px;
+         color: white;
+
+         background-color:gold;
+         text-align: center;
+
+        }
+div#piedpage {
+         width:1250px;
+         height:50px;
+         color: white;
+         background-color:#33FF99;
+        }
+div#menu {
+        float:left;
+        width:100px;
+        height:400px;
+
+        background-color:#ff3399;
+
+        
+        }
+div#menuhaut {
+        width:150px;
+        height:295px;
+        background-color:#66CC33;
+        float: left;
+        text-align: left;
+        }
+div#menubas {
+        width:150px;
+        height:295px;
+        background-color:#CC99CC;
+        float: left;
+        text-align: left;
+        
+        }
+div#blocnews {
+        float:right;
+        width:100px;
+        height:150px;
+        background-color:#FF3300;
+        }
+ul{
+    list-style-type: none;
+}
+img#accueil{
+        background-color: yellow;
+}
+td{
+        border: 1px solid black;
+}
+a:active{color: white;background-color: white; }
+
